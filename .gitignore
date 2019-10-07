@@ -1,0 +1,11 @@
+# Built Files
+build/
+
+# Dependancies
+node_modules/
+
+# Log Files
+*.log
+
+# NPM Package Lock
+package-lock.json
