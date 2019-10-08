@@ -19,7 +19,7 @@
 
 ## Installation & Usage
 
-Assuming you are using a [supported browser](https://caniuse.com/#feat=custom-elementsv1), you shouldn't have any issue or additional requestments past loading the script anywhere in your HTML (global template or layout wrapper)
+Assuming you are using a [supported browser](https://caniuse.com/#feat=custom-elementsv1), you shouldn't have any issue or additional requirements past loading the script anywhere in your HTML (global template or layout wrapper)
 
 ```html
 <script src="https://unpkg.com/@myosrs/crowns@latest"></script>
