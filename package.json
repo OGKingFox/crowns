@@ -1,9 +1,9 @@
 {
   "name": "@myosrs/crowns",
   "description": "Rank distinction crowns inspired by Oldschool RuneScape",
-  "version": "0.0.0",
-  "main": "./build/index.js",
-  "types": "./build/index.d.ts",
+  "version": "0.0.1",
+  "main": "./build/Crown.js",
+  "types": "./build/Crown.d.ts",
   "license": "MIT",
   "scripts": {
     "build": "rimraf ./build && npm run tsc",
